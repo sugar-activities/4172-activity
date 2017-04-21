@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GCompris>
+  <Board
+	 name="read_colors"
+	 type="read_colors"
+	 section="/discovery/colors_group"
+	 mode="*"
+	 difficulty="2"
+	 icon="read_colors2.svg"
+	 author="Pascal Georges (pascal.georges1@free.fr)"
+	 boarddir="read_colors">
+	 <title>Read the names of colors</title>
+	 <description>Click on the matching color</description>
+	 <prerequisite>Can read</prerequisite>
+	 <goal>This board teaches basic colors.</goal>
+	 <manual>Click on the correct colored object.</manual>
+  </Board>
+</GCompris>
